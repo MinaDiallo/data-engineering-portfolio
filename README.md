@@ -23,9 +23,6 @@
 Un pipeline **orchestré automatiquement** avec Airflow, **conteneurisé avec Docker**, et connecté à un dashboard Power BI.  
 ➡️ **Réduction du temps d’analyse** pour les décideurs non techniques.
 
-**📊 Visualisations** :  
-![Dashboard]([./docs/images/Visuel_data_sales.png])
-
 ---
 
 ## 🧰 Outils & Stack maîtrisés
