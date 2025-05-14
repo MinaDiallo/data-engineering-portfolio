@@ -6,7 +6,7 @@
 ---
 
 ## 📦 `ETL-Sales` – Automatisation d’un Pipeline ETL pour les TPE/PME
-**🔗 Repo** : [etl-sales](https://github.com/MinaDiallo/etl-sales)
+**🔗 Repo** : [etl-sales](https://github.com/MinaDiallo/Sales-ETL-Pipeline)
 
 **📌 Objectif** : Automatiser le traitement des ventes pour les petites entreprises, de l’extraction de données à la visualisation.
 
@@ -24,7 +24,7 @@ Un pipeline **orchestré automatiquement** avec Airflow, **conteneurisé avec Do
 ➡️ **Réduction du temps d’analyse** pour les décideurs non techniques.
 
 **📊 Visualisations** :  
-![Dashboard](./etl-sales/docs/images/Visuel_data_sales.png)
+![Dashboard]([./etl-sales/docs/images/Visuel_data_sales.png](https://github.com/MinaDiallo/Sales-ETL-Pipeline/blob/main/docs/images/Visuel_data_sales.png))
 
 ---
 
