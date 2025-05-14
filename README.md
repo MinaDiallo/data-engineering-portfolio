@@ -24,7 +24,7 @@ Un pipeline **orchestré automatiquement** avec Airflow, **conteneurisé avec Do
 ➡️ **Réduction du temps d’analyse** pour les décideurs non techniques.
 
 **📊 Visualisations** :  
-![Dashboard]([./etl-sales/docs/images/Visuel_data_sales.png](https://github.com/MinaDiallo/Sales-ETL-Pipeline/blob/main/docs/images/Visuel_data_sales.png))
+![Dashboard]([./etl-sales/docs/images/Visuel_data_sales.png](https://github.com/MinaDiallo/Sales-ETL-Pipeline/docs/images/Visuel_data_sales.png))
 
 ---
 
